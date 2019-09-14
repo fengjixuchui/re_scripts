@@ -189,7 +189,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit test_linux_elf / coverage reports
 htmlcov/
 .tox/
 .coverage
@@ -284,3 +284,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+*.i64
+*.idb
+*.id1
+*.id2
+*.id0
+*.nam
+*.til
